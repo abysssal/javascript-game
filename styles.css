@@ -1,3 +1,10 @@
 body {
-    color: dark;
+    color: rgb(32, 22, 45);
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
 }
